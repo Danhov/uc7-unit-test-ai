@@ -1,4 +1,4 @@
-package uc7.unitTest;
+package uc7.unitTest.student;
 
 public class Student {
 

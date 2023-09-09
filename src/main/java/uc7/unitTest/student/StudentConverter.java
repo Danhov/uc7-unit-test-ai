@@ -1,4 +1,4 @@
-package uc7.unitTest;
+package uc7.unitTest.student;
 
 import java.util.List;
 import java.util.stream.Collectors;
