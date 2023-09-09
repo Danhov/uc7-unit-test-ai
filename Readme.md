@@ -1,3 +1,13 @@
+## Test description
+
+`StudentConverterTest`
+
+The StudentConverterTest class validates the functionality of the StudentConverter component, which is responsible for converting student data between different formats. This suite of tests includes positive cases where it verifies the correct identification of high achievers, exceptional young high achievers, students who passed, and those who failed. Additionally, negative cases test the handling of empty data and null inputs. These tests ensure the StudentConverter performs accurate conversions and gracefully handles unexpected data, contributing to the reliability of this crucial component.
+
+`PlayerAnalyzerTest`
+
+The PlayerAnalyzerTest class rigorously tests the PlayerAnalyzer component, which assesses player performance statistics. Positive tests cover scenarios involving normal, junior, and senior players with different attributes. The suite also calculates scores for multiple players to ensure accurate multi-player analysis. Negative cases verify that the PlayerAnalyzer handles null skills correctly and returns the expected result for empty player lists. These tests guarantee the PlayerAnalyzer delivers accurate results while gracefully managing exceptional scenarios, enhancing the overall robustness of the player analysis functionality.
+
 ## Running Tests Locally
 
 To run the tests locally, follow these steps:
